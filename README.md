@@ -14,6 +14,7 @@ $ git clone https://github.com/fauzilax/go-cloudinary-simple.git
 $ cd go-cloudinary-simple
 ```
 - Get API KEY
+
 first we need to log in or sign up into our <a href="https://cloudinary.com/" >Cloudinary</a> account to get our Cloud Name, API Key, and API Secret. 
 then we need to create a folder to store our media uploads so now we got the Cloudinary Folder Name
 
