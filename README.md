@@ -1,4 +1,4 @@
-# go-cloudinary-simple
+# Go Cloudinary Simple Code
 
 # 🛠️ How to Run Locally
 
