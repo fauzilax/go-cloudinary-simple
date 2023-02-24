@@ -21,4 +21,4 @@ $ go run .
 
 <a href="https://dev.to/hackmamba/robust-media-upload-with-golang-and-cloudinary-echo-version-5cd8" >Link</a>
 
-thanks to Demola Malomo for Hackmamba
+Thanks to Demola Malomo for Hackmamba
