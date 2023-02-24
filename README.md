@@ -16,3 +16,5 @@ $ cd go-cloudinary-simple
 - Run the project
 ```
 $ go run .
+
+For Original Source https://dev.to/hackmamba/robust-media-upload-with-golang-and-cloudinary-echo-version-5cd8
