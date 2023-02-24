@@ -20,7 +20,7 @@ then we need to create a folder to store our media uploads so now we got the Clo
 
 so now we got all api for fill this
 
-<img src="img.PNG" width="304" height="297">
+<img src="img.PNG" >
 
 - Run the project
 ```
