@@ -16,10 +16,10 @@ $ cd go-cloudinary-simple
 - Run the project
 ```
 $ go run .
-
+```
 - For Original Source
 ```
-<a href="https://dev.to/hackmamba/robust-media-upload-with-golang-and-cloudinary-echo-version-5cd8" target="_blank">Link</a>
+<a href="https://dev.to/hackmamba/robust-media-upload-with-golang-and-cloudinary-echo-version-5cd8" >Link</a>
 
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![link](https://dev.to/hackmamba/robust-media-upload-with-golang-and-cloudinary-echo-version-5cd8)]
